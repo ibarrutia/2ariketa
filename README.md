@@ -1,5 +1,3 @@
-@@ -1 +1,21 @@
-# 2ariketa
 <!DOCTYPE html>
 <html lang="eu">
 <head>
